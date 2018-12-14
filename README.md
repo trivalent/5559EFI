@@ -1,5 +1,7 @@
 # 5559EFI
 
+https://shuklarahul.co.in/415/installing-macos-mojave-on-dell-inspiron-5559-laptops/
+
 Steps:
 1. Prepare your USB bootable drive following the guide: https://www.tonymacx86.com/threads/test-drive-how-to-create-a-clover-usb.127134/
 2. Copy over the CLOVER folder to your USB
